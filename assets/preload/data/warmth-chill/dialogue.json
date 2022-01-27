@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep skeep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "hi",
+			"text": "o...oh hi boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well so.. i never seen you before but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you look like.. umm kapi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "um",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "w..well-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "haha",
+			"text": "that it my brother-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ohhh That why you look familiar"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "haha",
+			"text": "uhh.. yup "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh hey um"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this ismy girlfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi kitty"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "h-hi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "e",
+			"text": "so.. where did you guys come from?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i just come back from a forest"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And.. we got a little lost"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heheh- yeah.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "w",
+			"text": "oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "e",
+			"text": "you.. want rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "haha",
+			"text": "umm.. are you sure?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "haha",
+			"text": "because The song I song may be../."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "um",
+			"text": "ah..- nevermind ...well"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "save",
+			"boxState": "normal",
+			"expression": "ok",
+			"text": "sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice ya"
+		}
+	]
+}
